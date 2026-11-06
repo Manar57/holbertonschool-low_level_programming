@@ -45,3 +45,8 @@
 - Prints every minute from 00:00 to 23:59.
 - Uses nested while loops to iterate through hours and minutes.
 - Formats hours and minutes using two digits.
+
+### 9. Times Table
+- Prints the 9 times table from 0 to 9.
+- Uses nested while loops.
+- Formats single-digit and double-digit results correctly.
