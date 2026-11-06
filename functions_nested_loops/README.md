@@ -40,3 +40,8 @@
 - Prints the last digit of an integer.
 - Handles negative numbers.
 - Returns the last digit as a positive value.
+
+### 8. Jack Bauer
+- Prints every minute from 00:00 to 23:59.
+- Uses nested while loops to iterate through hours and minutes.
+- Formats hours and minutes using two digits.
