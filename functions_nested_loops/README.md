@@ -35,3 +35,8 @@
 - Computes the absolute value of an integer.
 - Converts negative numbers to positive.
 - Returns positive numbers and zero unchanged.
+
+### 7. Print Last Digit
+- Prints the last digit of an integer.
+- Handles negative numbers.
+- Returns the last digit as a positive value.
