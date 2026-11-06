@@ -24,3 +24,9 @@
 - Checks whether a character is alphabetic.
 - Returns 1 if the character is an uppercase or lowercase letter.
 - Returns 0 otherwise.
+
+### 5. Sign
+- Prints the sign of a number.
+- Returns 1 for positive numbers.
+- Returns 0 for zero.
+- Returns -1 for negative numbers.
