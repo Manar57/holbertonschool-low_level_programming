@@ -19,3 +19,8 @@
 - Checks whether a character is lowercase.
 - Returns 1 if the character is between 'a' and 'z'.
 - Returns 0 otherwise.
+
+### 4. isalpha
+- Checks whether a character is alphabetic.
+- Returns 1 if the character is an uppercase or lowercase letter.
+- Returns 0 otherwise.
