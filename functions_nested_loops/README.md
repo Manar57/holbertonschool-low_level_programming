@@ -30,3 +30,8 @@
 - Returns 1 for positive numbers.
 - Returns 0 for zero.
 - Returns -1 for negative numbers.
+
+### 6. Absolute Value
+- Computes the absolute value of an integer.
+- Converts negative numbers to positive.
+- Returns positive numbers and zero unchanged.
