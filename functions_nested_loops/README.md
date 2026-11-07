@@ -54,3 +54,8 @@
 ### 10. Add
 - Adds two integer values.
 - Returns the sum of the two integers.
+
+### 11. Print to 98
+- Prints integers from a given number to 98.
+- Counts upward or downward depending on the starting number.
+- Separates numbers with commas and spaces.
