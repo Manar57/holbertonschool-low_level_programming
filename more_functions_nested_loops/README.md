@@ -48,3 +48,10 @@
 - Prints a square using the # character.
 - Uses nested loops to control rows and columns.
 - Prints only a newline when size is zero or negative.
+
+### 9. Fizz-Buzz
+- Implemented a program that prints numbers from 1 to 100.
+- Prints Fizz for multiples of 3.
+- Prints Buzz for multiples of 5.
+- Prints FizzBuzz for multiples of both 3 and 5.
+- Uses modulo (%) to check divisibility.
