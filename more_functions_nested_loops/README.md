@@ -25,3 +25,9 @@
 - Implemented `print_most_numbers(void)`.
 - Prints digits from 0 to 9, excluding 2 and 4.
 - Uses `_putchar` only twice.
+
+### 5. Numbers constitute the only universal language
+- Implemented `more_numbers(void)`.
+- Prints numbers from 0 to 14 ten times.
+- Uses nested loops.
+- Uses `_putchar` only three times in the code.
