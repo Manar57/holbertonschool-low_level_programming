@@ -50,3 +50,7 @@
 - Prints the 9 times table from 0 to 9.
 - Uses nested while loops.
 - Formats single-digit and double-digit results correctly.
+
+### 10. Add
+- Adds two integer values.
+- Returns the sum of the two integers.
