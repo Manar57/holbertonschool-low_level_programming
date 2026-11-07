@@ -42,3 +42,9 @@
 - Draws a diagonal line using backslashes.
 - Uses nested loops to print increasing spaces.
 - Prints only a newline when n is zero or negative.
+
+### 8. You are so much sunshine in every square inch
+- Implemented `print_square(int size)`.
+- Prints a square using the # character.
+- Uses nested loops to control rows and columns.
+- Prints only a newline when size is zero or negative.
