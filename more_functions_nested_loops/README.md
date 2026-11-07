@@ -31,3 +31,8 @@
 - Prints numbers from 0 to 14 ten times.
 - Uses nested loops.
 - Uses `_putchar` only three times in the code.
+
+### 6. The shortest distance between two points is a straight line
+- Implemented `print_line(int n)`.
+- Prints a straight horizontal line using underscores.
+- Prints only a newline when n is zero or negative.
