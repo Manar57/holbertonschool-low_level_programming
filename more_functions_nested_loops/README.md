@@ -55,3 +55,9 @@
 - Prints Buzz for multiples of 5.
 - Prints FizzBuzz for multiples of both 3 and 5.
 - Uses modulo (%) to check divisibility.
+
+### 10. Triangles
+- Implemented `print_triangle(int size)`.
+- Prints a right-aligned triangle using the # character.
+- Uses nested loops to print spaces and # characters.
+- Prints only a newline when size is zero or negative.
