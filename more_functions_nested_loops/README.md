@@ -20,3 +20,8 @@
 - Implemented `print_numbers(void)`.
 - Prints numbers from 0 to 9 followed by a new line.
 - Uses `_putchar` only twice in the code.
+
+### 4. I believe in numbers and signs
+- Implemented `print_most_numbers(void)`.
+- Prints digits from 0 to 9, excluding 2 and 4.
+- Uses `_putchar` only twice.
