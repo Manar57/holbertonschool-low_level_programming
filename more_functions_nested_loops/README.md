@@ -11,3 +11,7 @@
 - Implemented `_isdigit(int c)`.
 - Checks whether a character is a digit (0-9).
 - Returns 1 if digit, otherwise returns 0.
+
+### 2. Collaboration is multiplication
+- Implemented `mul(int a, int b)`.
+- Multiplies two integers and returns the result.
