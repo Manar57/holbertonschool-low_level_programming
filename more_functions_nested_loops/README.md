@@ -36,3 +36,9 @@
 - Implemented `print_line(int n)`.
 - Prints a straight horizontal line using underscores.
 - Prints only a newline when n is zero or negative.
+
+### 7. I feel like I am diagonally parked in a parallel universe
+- Implemented `print_diagonal(int n)`.
+- Draws a diagonal line using backslashes.
+- Uses nested loops to print increasing spaces.
+- Prints only a newline when n is zero or negative.
