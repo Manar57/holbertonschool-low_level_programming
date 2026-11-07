@@ -15,3 +15,8 @@
 ### 2. Collaboration is multiplication
 - Implemented `mul(int a, int b)`.
 - Multiplies two integers and returns the result.
+
+### 3. The numbers speak for themselves
+- Implemented `print_numbers(void)`.
+- Prints numbers from 0 to 9 followed by a new line.
+- Uses `_putchar` only twice in the code.
