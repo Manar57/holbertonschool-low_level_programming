@@ -31,3 +31,8 @@ Execution time was measured using:
 - Small differences between execution times are expected.
 - Execution time is used as a proxy for CPU activity, not as a direct measurement of electrical power consumption.
 
+### 1. Algorithmic Efficiency Comparison
+- Compared naive and single-pass implementations.
+- Executed the program three times.
+- Calculated average execution times.
+- Calculated relative performance difference.
