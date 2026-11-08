@@ -36,3 +36,9 @@ Execution time was measured using:
 - Executed the program three times.
 - Calculated average execution times.
 - Calculated relative performance difference.
+
+### 2. Controlled Instrumentation Experiment
+- Added clock-based timing instrumentation.
+- Measured total execution time and individual phases.
+- Converted clock ticks into seconds.
+- Documented measurement boundaries.
