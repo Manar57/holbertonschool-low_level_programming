@@ -42,3 +42,9 @@ Execution time was measured using:
 - Measured total execution time and individual phases.
 - Converted clock ticks into seconds.
 - Documented measurement boundaries.
+
+### 3. Written Report
+- Analyzed execution-time measurements from the benchmarking experiments.
+- Compared algorithm performance using recorded averages.
+- Discussed runtime and its relationship to energy consumption.
+- Documented experimental limitations and engineering conclusions.
