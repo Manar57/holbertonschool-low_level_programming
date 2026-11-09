@@ -14,3 +14,10 @@
 - **Prototype:** `void swap_int(int *a, int *b);`
 - **Description:** Swaps the values of two integers using pointers and a temporary variable.
 - **Concepts:** Pointers, dereferencing, and memory addresses.
+
+## 2. This report, by its very length, defends itself against the risk of being read
+
+- **File:** `2-strlen.c`
+- **Prototype:** `int _strlen(char *s);`
+- **Description:** Returns the length of a string without using the standard library strlen function.
+- **Concepts:** Strings, pointers, arrays, while loops, and the null terminator (`\0`).
