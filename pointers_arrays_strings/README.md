@@ -5,3 +5,12 @@
 - File: `0-reset_to_98.c`
 - Function: `reset_to_98(int *n)`
 - Description: Updates the value pointed to by the integer pointer to 98 using dereferencing.
+
+# Pointers, Arrays and Strings
+
+## 1. Don't swap horses in crossing a stream
+
+- **File:** `1-swap.c`
+- **Prototype:** `void swap_int(int *a, int *b);`
+- **Description:** Swaps the values of two integers using pointers and a temporary variable.
+- **Concepts:** Pointers, dereferencing, and memory addresses.
