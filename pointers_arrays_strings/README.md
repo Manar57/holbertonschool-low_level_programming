@@ -63,3 +63,10 @@
 - **Prototype:** `void print_array(int *a, int n);`
 - **Description:** Prints n elements of an integer array in their original order, separated by comma and space, followed by a new line.
 - **Concepts:** Arrays, pointers, loops, printf, and array indexing.
+
+## 9. strcpy
+
+- **File:** `9-strcpy.c`
+- **Prototype:** `char *_strcpy(char *dest, char *src);`
+- **Description:** Copies a string from src to dest, including the terminating null byte, and returns a pointer to dest.
+- **Concepts:** Pointers, strings, arrays, loops, and memory copying.
