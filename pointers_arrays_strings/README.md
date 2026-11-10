@@ -43,3 +43,9 @@
 - **Description:** Reverses a string by swapping characters in place.
 - **Concepts:** Pointers, arrays, string manipulation, loops, and temporary variables.
 
+## 6. Half the lies they tell about me aren't true
+
+- **File:** `6-puts2.c`
+- **Prototype:** `void puts2(char *str);`
+- **Description:** Prints every other character of a string, starting with the first character, followed by a new line.
+- **Concepts:** Pointers, strings, arrays, loops, and character indexing.
