@@ -56,3 +56,10 @@
 - **Prototype:** `void puts_half(char *str);`
 - **Description:** Prints the second half of a string. If the length is odd, prints the last (length + 1) / 2 characters.
 - **Concepts:** Pointers, strings, arrays, loops, and integer division.
+
+## 8. Arrays are not pointers
+
+- **File:** `8-print_array.c`
+- **Prototype:** `void print_array(int *a, int n);`
+- **Description:** Prints n elements of an integer array in their original order, separated by comma and space, followed by a new line.
+- **Concepts:** Arrays, pointers, loops, printf, and array indexing.
