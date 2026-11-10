@@ -28,3 +28,10 @@
 - **Prototype:** `void _puts(char *str);`
 - **Description:** Prints a string followed by a new line using _putchar.
 - **Concepts:** Pointers, strings, pointer increment, loops, and null terminator.
+
+## 4. I can only go one way. I've not got a reverse gear
+
+- **File:** `4-print_rev.c`
+- **Prototype:** `void print_rev(char *s);`
+- **Description:** Prints a string in reverse followed by a new line.
+- **Concepts:** Strings, pointers, loops, array indexing, and string length.
