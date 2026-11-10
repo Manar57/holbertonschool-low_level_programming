@@ -35,3 +35,11 @@
 - **Prototype:** `void print_rev(char *s);`
 - **Description:** Prints a string in reverse followed by a new line.
 - **Concepts:** Strings, pointers, loops, array indexing, and string length.
+
+## 5. A good engineer thinks in reverse
+
+- **File:** `5-rev_string.c`
+- **Prototype:** `void rev_string(char *s);`
+- **Description:** Reverses a string by swapping characters in place.
+- **Concepts:** Pointers, arrays, string manipulation, loops, and temporary variables.
+
