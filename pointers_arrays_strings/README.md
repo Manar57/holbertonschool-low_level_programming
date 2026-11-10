@@ -49,3 +49,10 @@
 - **Prototype:** `void puts2(char *str);`
 - **Description:** Prints every other character of a string, starting with the first character, followed by a new line.
 - **Concepts:** Pointers, strings, arrays, loops, and character indexing.
+
+## 7. Winning is only half of it. Having fun is the other half
+
+- **File:** `7-puts_half.c`
+- **Prototype:** `void puts_half(char *str);`
+- **Description:** Prints the second half of a string. If the length is odd, prints the last (length + 1) / 2 characters.
+- **Concepts:** Pointers, strings, arrays, loops, and integer division.
