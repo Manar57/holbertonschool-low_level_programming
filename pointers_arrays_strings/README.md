@@ -70,3 +70,10 @@
 - **Prototype:** `char *_strcpy(char *dest, char *src);`
 - **Description:** Copies a string from src to dest, including the terminating null byte, and returns a pointer to dest.
 - **Concepts:** Pointers, strings, arrays, loops, and memory copying.
+
+## 10. Great leaders are willing to sacrifice the numbers to save the people
+
+- **File:** `100-atoi.c`
+- **Prototype:** `int _atoi(char *s);`
+- **Description:** Converts a string into an integer, handling signs and non-numeric characters before the number.
+- **Concepts:** Pointers, strings, loops, conditions, ASCII values, and integer conversion.
