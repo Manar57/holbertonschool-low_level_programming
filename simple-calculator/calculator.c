@@ -91,7 +91,7 @@ int main(void)
 
             if (choice == 4 && num2 == 0)
             {
-                printf("Error: Division by zero.\n");
+                printf("Error: division by zero\n");
             }
             else
             {
