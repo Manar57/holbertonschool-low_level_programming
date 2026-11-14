@@ -250,3 +250,12 @@ occurrence of a substring within another string.
 - Returns a pointer to the beginning of the matching substring.
 - Returns NULL if the substring is not found.
 - Returns the original string if the needle is empty.
+
+### 6. Chess is mental torture
+
+- **File:** `7-print_chessboard.c`
+- **Function:** `print_chessboard`
+- Prints an 8x8 chessboard.
+- Uses nested loops to iterate through rows and columns.
+- Uses `_putchar` to print each character.
+- Prints a newline after each row.
