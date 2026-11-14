@@ -109,3 +109,14 @@ The function:
 - Returns a pointer to the destination string.
 
 
+
+### 2. strncpy
+
+Implemented `_strncpy`, a function that copies a string
+using at most n characters.
+
+The function:
+- Copies characters from the source to the destination.
+- Stops when n characters are copied or the source ends.
+- Fills remaining positions with null bytes if needed.
+- Returns a pointer to the destination string.
