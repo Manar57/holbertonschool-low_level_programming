@@ -77,3 +77,35 @@
 - **Prototype:** `int _atoi(char *s);`
 - **Description:** Converts a string into an integer, handling signs and non-numeric characters before the number.
 - **Concepts:** Pointers, strings, loops, conditions, ASCII values, and integer conversion.
+
+
+
+# Pointers, Arrays and Strings
+
+## Tasks
+
+### 0. strcat
+
+Implemented `_strcat`, a function that concatenates
+two strings by appending the source string to the
+destination string.
+
+The function:
+- Finds the end of the destination string.
+- Copies the source string to the end of the destination.
+- Adds the null terminator.
+- Returns a pointer to the destination string.
+
+
+### 1. strncat
+
+Implemented `_strncat`, a function that concatenates
+two strings using at most n bytes from the source string.
+
+The function:
+- Finds the end of the destination string.
+- Copies up to n characters from the source string.
+- Adds a null terminator at the end.
+- Returns a pointer to the destination string.
+
+
