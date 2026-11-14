@@ -238,3 +238,15 @@ for the first occurrence of any character from an accepted set.
 - Checks each character against the accept string.
 - Returns a pointer to the first matching character.
 - Returns NULL if no matching character is found.
+
+
+### 5. strstr
+
+Implemented a function `_strstr` that locates the first
+occurrence of a substring within another string.
+
+- Searches for a substring character by character.
+- Compares characters using nested pointers.
+- Returns a pointer to the beginning of the matching substring.
+- Returns NULL if the substring is not found.
+- Returns the original string if the needle is empty.
