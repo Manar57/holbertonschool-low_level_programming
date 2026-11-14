@@ -153,3 +153,16 @@ The function:
 - Checks whether each character is lowercase.
 - Converts lowercase letters to uppercase using ASCII.
 - Returns a pointer to the modified string.
+
+
+### 6. cap_string
+
+Implemented `cap_string`, a function that capitalizes
+the first letter of every word in a string.
+
+The function:
+- Iterates through the string.
+- Checks whether the current character follows a word separator.
+- Converts lowercase letters to uppercase.
+- Supports spaces, tabs, newlines, and punctuation separators.
+- Returns a pointer to the modified string.
