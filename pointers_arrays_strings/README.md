@@ -196,3 +196,14 @@ of a memory area with a constant byte.
 - Uses a loop to iterate through the memory area.
 - Replaces each byte with the given value.
 - Returns a pointer to the original memory area.
+
+
+### 1. memcpy
+
+Implemented a function `_memcpy` that copies `n` bytes
+from a source memory area to a destination memory area.
+
+- Copies bytes using a loop.
+- Preserves the original source memory.
+- Returns a pointer to the destination memory area.
+
