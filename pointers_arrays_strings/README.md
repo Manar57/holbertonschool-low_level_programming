@@ -166,3 +166,18 @@ The function:
 - Converts lowercase letters to uppercase.
 - Supports spaces, tabs, newlines, and punctuation separators.
 - Returns a pointer to the modified string.
+
+
+### 7. leet
+
+Implemented `leet`, a function that encodes a string
+into 1337.
+
+The function:
+- Replaces a/A with 4.
+- Replaces e/E with 3.
+- Replaces o/O with 0.
+- Replaces t/T with 7.
+- Replaces l/L with 1.
+- Uses two loops and only one if statement.
+- Returns a pointer to the modified string.
