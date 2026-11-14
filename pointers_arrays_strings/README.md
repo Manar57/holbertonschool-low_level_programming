@@ -227,3 +227,14 @@ of the initial segment of a string containing only accepted characters.
 - Uses nested loops to search for matching characters.
 - Stops at the first character that is not found.
 - Returns the number of matching bytes.
+
+
+### 4. strpbrk
+
+Implemented a function `_strpbrk` that searches a string
+for the first occurrence of any character from an accepted set.
+
+- Iterates through the source string.
+- Checks each character against the accept string.
+- Returns a pointer to the first matching character.
+- Returns NULL if no matching character is found.
