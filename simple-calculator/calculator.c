@@ -67,7 +67,7 @@ int main(void)
 
         if (choice < 0 || choice > 4)
         {
-            printf("Invalid choice. Try again.\n");
+            printf("Invalid choice\n");
         }
         else if (choice == 0)
         {
