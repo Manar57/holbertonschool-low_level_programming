@@ -120,3 +120,13 @@ The function:
 - Stops when n characters are copied or the source ends.
 - Fills remaining positions with null bytes if needed.
 - Returns a pointer to the destination string.
+
+
+### 3. strcmp
+
+Implemented `_strcmp`, a function that compares two strings.
+
+The function:
+- Compares characters one by one.
+- Stops at the first different character or null byte.
+- Returns the difference between the first different characters.
