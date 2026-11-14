@@ -75,14 +75,14 @@ int main(void)
         }
         else
         {
-            printf("Enter first number: ");
+            printf("A: ");
             if (scanf("%lf", &num1) != 1)
             {
                 printf("Invalid number.\n");
                 return (1);
             }
 
-            printf("Enter second number: ");
+            printf("B: ");
             if (scanf("%lf", &num2) != 1)
             {
                 printf("Invalid number.\n");
@@ -96,7 +96,7 @@ int main(void)
             else
             {
                 result = calculate(num1, num2, choice);
-                printf("Result: %.2f\n", result);
+                printf("Result: %.15g\n", result);
             }
         }
     }
