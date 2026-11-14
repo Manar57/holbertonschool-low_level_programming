@@ -259,3 +259,11 @@ occurrence of a substring within another string.
 - Uses nested loops to iterate through rows and columns.
 - Uses `_putchar` to print each character.
 - Prints a newline after each row.
+
+### 7. The line of life is a ragged diagonal between duty and desire
+
+- **File:** `8-print_diagsums.c`
+- **Function:** `print_diagsums`
+- Calculates the sum of the main and secondary diagonals of a square matrix.
+- Uses array indexing and the matrix size to access elements in memory.
+- Prints both sums separated by a comma.
