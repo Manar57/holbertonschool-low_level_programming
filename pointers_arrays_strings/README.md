@@ -181,3 +181,18 @@ The function:
 - Replaces l/L with 1.
 - Uses two loops and only one if statement.
 - Returns a pointer to the modified string.
+
+
+
+# Pointers, Arrays and Strings
+
+## Tasks
+
+### 0. memset
+
+Implemented a function `_memset` that fills the first `n` bytes
+of a memory area with a constant byte.
+
+- Uses a loop to iterate through the memory area.
+- Replaces each byte with the given value.
+- Returns a pointer to the original memory area.
