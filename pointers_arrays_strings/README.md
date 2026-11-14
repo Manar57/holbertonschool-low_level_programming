@@ -216,3 +216,14 @@ occurrence of a character in a string.
 - Searches the string character by character.
 - Returns a pointer to the first matching character.
 - Returns NULL if the character is not found.
+
+
+### 3. strspn
+
+Implemented a function `_strspn` that calculates the length
+of the initial segment of a string containing only accepted characters.
+
+- Checks each character against the accept string.
+- Uses nested loops to search for matching characters.
+- Stops at the first character that is not found.
+- Returns the number of matching bytes.
