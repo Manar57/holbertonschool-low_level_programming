@@ -16,15 +16,19 @@ operations through a menu-driven interface.
 
 ## Compilation
 
+```bash
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 calculator.c -o calculator
+```
 
 ## Run
 
+```bash
 ./calculator
+```
 
 ## Numeric Behavior
 - Uses double data type for decimal numbers.
-- Displays results with two decimal places.
+- Displays results without unnecessary trailing zeros.
 - Supports integer and decimal operands.
 - Prevents division by zero.
 
@@ -36,3 +40,9 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 calculator.c -o calculator
 ## Known Limitations
 - Non-numeric input is not recovered automatically.
 - Invalid operands terminate the program.
+
+## Completed Tasks
+- Created the calculator menu.
+- Implemented menu looping and choice validation.
+- Implemented addition with A and B prompts.
+- Implemented subtraction using the - operator.
