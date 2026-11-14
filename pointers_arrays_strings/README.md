@@ -207,3 +207,12 @@ from a source memory area to a destination memory area.
 - Preserves the original source memory.
 - Returns a pointer to the destination memory area.
 
+
+### 2. strchr
+
+Implemented a function `_strchr` that locates the first
+occurrence of a character in a string.
+
+- Searches the string character by character.
+- Returns a pointer to the first matching character.
+- Returns NULL if the character is not found.
