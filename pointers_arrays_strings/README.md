@@ -141,3 +141,15 @@ The function:
 - Uses a temporary variable to swap elements.
 - Swaps elements from both ends toward the middle.
 - Modifies the original array without creating another array.
+
+
+### 5. string_toupper
+
+Implemented `string_toupper`, a function that converts
+all lowercase letters in a string to uppercase.
+
+The function:
+- Iterates through the string.
+- Checks whether each character is lowercase.
+- Converts lowercase letters to uppercase using ASCII.
+- Returns a pointer to the modified string.
