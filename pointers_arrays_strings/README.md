@@ -130,3 +130,14 @@ The function:
 - Compares characters one by one.
 - Stops at the first different character or null byte.
 - Returns the difference between the first different characters.
+
+
+### 4. reverse_array
+
+Implemented `reverse_array`, a function that reverses
+the content of an integer array.
+
+The function:
+- Uses a temporary variable to swap elements.
+- Swaps elements from both ends toward the middle.
+- Modifies the original array without creating another array.
