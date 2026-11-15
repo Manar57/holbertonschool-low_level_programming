@@ -10,3 +10,5 @@ Dynamic memory allocation in C using `malloc` and `free`.
 | `0-create_array.c` | Creates an array of chars and initializes it with a specific char |
 | `1-strdup.c` | Returns a pointer to a newly allocated copy of a string |
 | `2-str_concat.c` | Concatenates two strings into newly allocated memory |
+| `3-alloc_grid.c` | Returns a pointer to a 2D grid of integers initialized to 0 |
+
