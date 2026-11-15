@@ -1,16 +1,12 @@
+# 0x0a. C - malloc, free
 
-# 0x0A. malloc, free
+Dynamic memory allocation in C using `malloc` and `free`.
 
-## Task 0: Float like a butterfly, sting like a bee
+## Files
 
-Implemented a function called `create_array` that creates an array of characters and initializes all its elements with a specific character.
+| File | Description |
+|------|-------------|
+| `main.h` | Header file with all function prototypes |
+| `0-create_array.c` | Creates an array of chars and initializes it with a specific char |
+| `1-strdup.c` | Returns a pointer to a newly allocated copy of a string |
 
-### Prototype
-`char *create_array(unsigned int size, char c);`
-
-### Requirements
-- Returns NULL if size is 0.
-- Allocates memory using malloc.
-- Initializes every element with the character c.
-- Returns NULL if memory allocation fails.
-- Returns a pointer to the allocated array on success.
