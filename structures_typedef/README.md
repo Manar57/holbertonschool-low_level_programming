@@ -8,6 +8,7 @@ This directory contains C programs that introduce structures and `typedef`.
 |------|-------------|
 | `dog.h` | Header file that defines `struct dog` with the members `name` (`char *`), `age` (`float`) and `owner` (`char *`), and holds the function prototypes. |
 | `1-init_dog.c` | Function that initializes a variable of type `struct dog`. Prototype: `void init_dog(struct dog *d, char *name, float age, char *owner);` |
+| `2-print_dog.c` | Function that prints a `struct dog`. Prints `(nil)` for any `NULL` string element and nothing if `d` is `NULL`. Prototype: `void print_dog(struct dog *d);` |
 
 ## Compilation
 
