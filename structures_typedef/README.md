@@ -10,6 +10,7 @@ This directory contains C programs that introduce structures and `typedef`.
 | `1-init_dog.c` | Function that initializes a variable of type `struct dog`. Prototype: `void init_dog(struct dog *d, char *name, float age, char *owner);` |
 | `2-print_dog.c` | Function that prints a `struct dog`. Prints `(nil)` for any `NULL` string element and nothing if `d` is `NULL`. Prototype: `void print_dog(struct dog *d);` |
 | `4-new_dog.c` | Function that creates a new dog, storing copies of `name` and `owner`. Returns `NULL` on failure. Prototype: `dog_t *new_dog(char *name, float age, char *owner);` |
+| `5-free_dog.c` | Function that frees a dog, including its copied `name` and `owner`. Prototype: `void free_dog(dog_t *d);` |
 
 ## Compilation
 
